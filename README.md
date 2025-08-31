@@ -1,0 +1,1 @@
+# SecureVoice50-A-Multi-Device-Multi-Environment-Speech-Dataset-for-Secure-Speaker-Verification
