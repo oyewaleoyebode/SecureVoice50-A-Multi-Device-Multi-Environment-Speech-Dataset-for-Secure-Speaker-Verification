@@ -93,4 +93,16 @@ If you use this dataset, please cite the following:
   doi          = {10.5281/zenodo.17184012},
   url          = {https://doi.org/10.5281/zenodo.17184012}
 }
+
+@INPROCEEDINGS{11173011,
+  author={Oluwatobi Oyewale, Oyebode and Taenaka, Yuzo and Kadobayashi, Youki},
+  booktitle={2025 11th IEEE International Conference on Privacy Computing and Data Security (PCDS)}, 
+  title={Speaker Identification for Low-End Devices: A Secure Voice Biometric Solution for Mobile Banking}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={80-87},
+  keywords={Performance evaluation;Accuracy;Error analysis;Biological system modeling;Authentication;Banking;Feature extraction;Biometric authentication;Pins;Object recognition;Voice Biometric Authentication;Speaker Identification;Liveness Detection;Anti-Spoofing;Resource-Constrained Devices},
+  doi={10.1109/PCDS65695.2025.00020}}
+
 ```
